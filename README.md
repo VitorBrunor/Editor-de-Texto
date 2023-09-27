@@ -1,0 +1,2 @@
+# Editor-de-Texto
+Editor de Texto feito para a matéria de Algoritmos e Estruturas de Dados II. O Editor de TGexto com Dicionário foi um porjeto proposto para nos fazer treinar a correta implementação de Estruturas de Dados, além de bons padrões de código. Utilizei a Tabela Hash como o meio de guardar as palavras adicionadas ao dicionário. Utilizei um vetor com listas (40 mil posições de vetor inicializadas) para guardar as palavras. Como foi proposto, fiz uma aplicação desktop utlizando Java
